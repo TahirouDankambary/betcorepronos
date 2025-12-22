@@ -1,9 +1,9 @@
 
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXnWCjuFekCyxGKeu84ED50vgRcSVVeRnb-A&s",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXnWCjuFekCyxGKedu84ED50vgRcSVVeRnb-A&s",
     "name1": "Bournemouth",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0rYJKDnNu13Jynkz3DgfH4JETxBqkACh-6Q&s",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0rYJKDnNu13Jdynkz3DgfH4JETxBqkACh-6Q&s",
     "name2": "Burnley",
     "champ": "Angleterre. Premier League",
     "heure": "15H00",
@@ -11,9 +11,9 @@
     "pro": "1X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/1200px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albidon_2024.svg/1200px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
     "name1": "Brighton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b5/Logo_Sunderland_AFC_1997.svg/1200px-Logo_Sunderland_AFC_1997.svg.png",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b5/Logo_Sunderland_AFC_1997.svgd/1200px-Logo_Sunderland_AFC_1997.svg.png",
     "name2": "Sunderland",
     "champ": "Angleterre. Premier League",
     "heure": "15H00",
@@ -21,9 +21,9 @@
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/1200px-Wolverhampton_Wanderers.svg.png",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/1200px-Wolverhamptodn_Wanderers.svg.png",
     "name1": "Wolverhampton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_Brentford_FC_-_2017.svg/1200px-Logo_Brentford_FC_-_2017.svg.png",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_Brentford_FC_-_2017.svg/1200px-Logo_Brentfordd_FC_-_2017.svg.png",
     "name2": "Brentford",
     "champ": "Angleterre. Premier League",
     "heure": "15H00",
@@ -31,9 +31,9 @@
     "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.pngd",
     "name1": "Manchester City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_West_Ham_United_2016.svg/langfr-250px-Logo_West_Ham_United_2016.svg.png",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_West_Ham_United_2016.svg/langfr-250px-Logo_West_Ham_United_2016.svg.pngd",
     "name2": "West Ham",
     "champ": "Angleterre. Premier League",
     "heure": "15H00",
@@ -41,62 +41,12 @@
     "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1011px-Logo_Tottenham_Hotspur.svg.png",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1011px-Logo_Tottenham_Hotspur.svg.pngd",
     "name1": "Tottenham",
-    "photo2": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-emblem.png",
+    "photo2": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-emblem.pngd",
     "name2": "Liverpool",
     "champ": "Angleterre. Premier League",
     "heure": "17H30",
-    "date": "20/12/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/965px-Leeds_United_F.C._logo.svg.png",
-    "name1": "Leeds United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/965px-Logo_Crystal_Palace_FC_-_2022.svg.png",
-    "name2": "Crystal Palace",
-    "champ": "Angleterre. Premier League",
-    "heure": "20H00",
-    "date": "20/12/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_Everton_FC_2023.svg/langfr-250px-Logo_Everton_FC_2023.svg.png",
-    "name1": "Everton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1020px-Arsenal_FC.svg.png",
-    "name2": "Arsenal",
-    "champ": "Angleterre. Premier League",
-    "heure": "20H00",
-    "date": "20/12/2025",
-    "pro": "2X ET TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTnMXtuuezcJbGLvLc5fA6L9n1gvs3QnuWg&s",
-    "name1": "Augsbourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1362px-SV-Werder-Bremen-Logo.svg.png",
-    "name2": "Werder Bremen",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "14H30",
-    "date": "20/12/2025",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHTSGzcSSLxYmr-SGus-5kiTUrg6kkcB0Ing&s",
-    "name1": "Wolfsbourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/960px-SC_Freiburg_%28logo%29.svg.png",
-    "name2": "Fribourg",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "14H30",
-    "date": "20/12/2025",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/1280px-Hamburger_SV_logo.svg.png",
-    "name1": "Hambourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/langfr-250px-Logo_Eintracht_Francfort.svg.png",
-    "name2": "Frankfurt",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "14H30",
     "date": "20/12/2025",
     "pro": "Deux équipes vont marquer: OUI"
   }
