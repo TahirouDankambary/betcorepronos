@@ -1,103 +1,102 @@
-
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1020px-Arsenal_FC.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/1200px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
-    "name2": "Brighton",
-    "champ": "Angleterre. Premier League",
-    "heure": "15H00",
-    "date": "27/12/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/AS_Roma_Logo_2017.svg/langfr-250px-AS_Roma_Logo_2017.svg.png",
+    "name1": "Roma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/960px-Logo_Genoa_CFC_-_2022.svg.png",
+    "name2": "Genoa",
+    "champ": "Italie. Série A",
+    "heure": "19H45",
+    "date": "29/12/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0rYJKDnNu13Jynkz3DgfH4JETxBqkACh-6Q&s",
-    "name1": "Burnley",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_Everton_FC_2023.svg/langfr-250px-Logo_Everton_FC_2023.svg.png",
-    "name2": "Everton",
-    "champ": "Angleterre. Premier League",
-    "heure": "18H00",
-    "date": "27/12/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/langfr-250px-Flag_of_Angola.svg.png",
+    "name1": "Angola",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1280px-Flag_of_Egypt.svg.png",
+    "name2": "Égypte",
+    "champ": "CAN",
+    "heure": "16H00",
+    "date": "29/12/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_Brentford_FC_-_2017.svg/1200px-Logo_Brentford_FC_-_2017.svg.png",
-    "name1": "Brentford",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXnWCjuFekCyxGKeu84ED50vgRcSVVeRnb-A&s",
-    "name2": "Bournemouth",
-    "champ": "Angleterre. Premier League",
-    "heure": "15H00",
-    "date": "27/12/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_West_Ham_United_2016.svg/langfr-250px-Logo_West_Ham_United_2016.svg.png",
-    "name1": "West Ham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/Logo_Fulham.svg/langfr-250px-Logo_Fulham.svg.png",
-    "name2": "Fulham",
-    "champ": "Angleterre. Premier League",
-    "heure": "15H00",
-    "date": "27/12/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-emblem.png",
-    "name1": "Liverpool",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/1200px-Wolverhampton_Wanderers.svg.png",
-    "name2": "Wolverhampton",
-    "champ": "Angleterre. Premier League",
-    "heure": "15H00",
-    "date": "27/12/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzudkg0srHDg2G_h9v-lV8uPDb5lNwiQE7Vw&s",
-    "name1": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Aston_Villa_FC_2024.svg/langfr-250px-Aston_Villa_FC_2024.svg.png",
-    "name2": "Aston Villa",
-    "champ": "Angleterre. Premier League",
-    "heure": "17H30",
-    "date": "27/12/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYq27rbmgKkKG5LDETKr0j7mLZNjHOidPgdg&s",
-    "name1": "Lecce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_Como_1907_2019.png",
-    "name2": "Como",
-    "champ": "Italie. Série A",
-    "heure": "14H00",
-    "date": "27/12/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Logo_Torino_FC_2024.svg/1705px-Logo_Torino_FC_2024.svg.png",
-    "name1": "Torino",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/992px-Cagliari_Calcio_1920_logo.svg.png",
-    "name2": "Cagliari Calcio",
-    "champ": "Italie. Série A",
-    "heure": "14H00",
-    "date": "27/12/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Udinese_Calcio_2010.svg/1200px-Logo_Udinese_Calcio_2010.svg.png",
-    "name1": "Udinese Calcio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
-    "name2": "Lazio",
-    "champ": "Italie. Série A",
-    "heure": "17H00",
-    "date": "27/12/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/1280px-Flag_of_Zimbabwe.svg.png",
+    "name1": "Zimbabwe",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/2560px-Flag_of_South_Africa.svg.png",
+    "name2": "Afrique du Sud",
+    "champ": "CAN",
+    "heure": "16H00",
+    "date": "29/12/2025",
     "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/Logo_Pisa_SC_2024.svg/langfr-250px-Logo_Pisa_SC_2024.svg.png",
-    "name1": "Pisa 1909",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/960px-Logo_Juventus_FC_2020.svg.png",
-    "name2": "Juventus",
-    "champ": "Italie. Série A",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/2560px-Flag_of_Zambia.svg.png",
+    "name1": "Zambie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+    "name2": "Maroc",
+    "champ": "CAN",
+    "heure": "19H00",
+    "date": "29/12/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/2560px-Flag_of_the_Comoros.svg.png",
+    "name1": "Archipel des Comores",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/1280px-Flag_of_Mali.svg.png",
+    "name2": "Mali",
+    "champ": "CAN",
+    "heure": "19H00",
+    "date": "29/12/2025",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Coventry_City_FC_logo.svg/1189px-Coventry_City_FC_logo.svg.png",
+    "name1": "Coventry City",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_yAJw5pCVT01fS27XbHu7hCAeCCvVW1dUiw&s",
+    "name2": "Ipswich Town",
+    "champ": "Angleterre. Championship",
+    "heure": "18H00",
+    "date": "29/12/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_West_Bromwich_Albion.svg/1010px-Logo_West_Bromwich_Albion.svg.png",
+    "name1": "West Bromwich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Queens_Park_Rangers_2016.svg/1200px-Logo_Queens_Park_Rangers_2016.svg.png",
+    "name2": "Queens Park Rangers",
+    "champ": "Angleterre. Championship",
     "heure": "19H45",
-    "date": "27/12/2025",
+    "date": "29/12/2025",
     "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Leicester_City_2021.svg/langfr-250px-Logo_Leicester_City_2021.svg.png",
+    "name1": "Leicester City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/57/Logo_Derby_County_2012.svg/langfr-250px-Logo_Derby_County_2012.svg.png",
+    "name2": "Derby County",
+    "champ": "Angleterre. Championship",
+    "heure": "19H45",
+    "date": "29/12/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_Middlesbrough.svg/1152px-Logo_Middlesbrough.svg.png",
+    "name1": "Middlesbrough",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Hull_City_AFC_logo.svg/960px-Hull_City_AFC_logo.svg.png",
+    "name2": "Hull City",
+    "champ": "Angleterre. Championship",
+    "heure": "19H45",
+    "date": "29/12/2025",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/52/Logo_Millwall_FC_-_140_ans_%281885-2025%29.svg/1200px-Logo_Millwall_FC_-_140_ans_%281885-2025%29.svg.png",
+    "name1": "Millwall",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_Bristol_City_FC_2019.svg/1200px-Logo_Bristol_City_FC_2019.svg.png",
+    "name2": "Bristol City",
+    "champ": "Angleterre. Championship",
+    "heure": "19H45",
+    "date": "29/12/2025",
+    "pro": "12"
   }
 ]
