@@ -1,62 +1,62 @@
- [
-   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7VBmd145L5AzkQGoG7GAfDGsiTaHZ9wh3Cg&s",
-    "name1": "Levante UD",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjzlGtWs6_uEprlgqQsfBtfXdygJtZBc2LwQ&s",
-    "name2": "Séville",
+[
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e8/Logo_Real_Betis_Balompi%C3%A9_2022.svg/1280px-Logo_Real_Betis_Balompi%C3%A9_2022.svg.png",
+    "name1": "Real Betis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
+    "name2": "Real Madrid",
     "champ": "Espagne. LaLiga",
-    "heure": "17H00",
-    "date": "23/04/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6ndKyDkWKNY9im69NeU4zqvAIl5Luq8f7Q&s",
-    "name1": "Rayo Vallecano",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_RCD_Espanyol_Barcelona_2022.svg/langfr-250px-Logo_RCD_Espanyol_Barcelona_2022.svg.png",
-    "name2": "Espanyol",
-    "champ": "Espagne. LaLiga",
-    "heure": "18H00",
-    "date": "23/04/2026",
-    "pro": "Total: (+2)"
-  },  
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/15/Logo_Real_Oviedo_2013.svg/960px-Logo_Real_Oviedo_2013.svg.png",
-    "name1": "Real Oviedo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxn3FNeB8AMFnFQUBrRRGZbB1YpAsVPsdchA&s",
-    "name2": "Villarreal",
-    "champ": "Espagne. LaLiga",
-    "heure": "19H30",
-    "date": "23/04/2026",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Akhmat_Grozny_Logo.svg/1920px-Akhmat_Grozny_Logo.svg.png",
-    "name1": "Akhmat",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/FC_Baltika_Kaliningrad_Logo.svg/1280px-FC_Baltika_Kaliningrad_Logo.svg.png",
-    "name2": "Baltika Kaliningrad",
-    "champ": "Russie. Première Ligue",
-    "heure": "16H45",
-    "date": "23/04/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIzxwUygmPgJCYdUzGBqGvJC-RX4bJkhUgpA&s",
-    "name1": "Spartak Moscou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/langfr-250px-FC_Krasnodar_2016_Logo.svg.png",
-    "name2": "Krasnodar",
-    "champ": "Russie. Première Ligue",
-    "heure": "16H45",
-    "date": "23/04/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-8g_HaKEvaICiEXNCaOogI_77VzpVcilIlg&s",
-    "name1": "PSV",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/PEC_Zwolle_%28logo%29.svg/1280px-PEC_Zwolle_%28logo%29.svg.png",
-    "name2": "PEC Zwolle",
-    "champ": "Pays-Bas. Eredivisie",
     "heure": "19H00",
-    "date": "23/04/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "date": "24/04/2026",
+    "pro": "2X Et TP (1.5) - Oui"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8KmU3C_cjpjRje03cf2Gukitm-72gQDW35Q&s",
+    "name1": "Sunderland",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_Nottingham_Forest_FC.svg/1280px-Logo_Nottingham_Forest_FC.svg.png",
+    "name2": "Nottingham Forest",
+    "champ": "Angleterre. Premier League",
+    "heure": "19H00",
+    "date": "24/04/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/langfr-250px-SSC_Napoli_2025_%28white_and_azure%29.svg.png",
+    "name1": "SSC Naples",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_US_Cremonese_2018.svg/1280px-Logo_US_Cremonese_2018.svg.png",
+    "name2": "Cremonese",
+    "champ": "Italie. Série A",
+    "heure": "18H45",
+    "date": "24/04/2026",
+    "pro": "V1 Et TP (1.5) - Oui"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5IWIYXgSpdXNRK_ZEyy0KYf8jNci_lnrk3Q&s",
+    "name1": "Stade Brestois 29",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Logo_RC_Lens_-_120_ans_%281906-2026%29.svg/langfr-250px-Logo_RC_Lens_-_120_ans_%281906-2026%29.svg.png",
+    "name2": "RC Lens",
+    "champ": "France. Ligue 1",
+    "heure": "18H45",
+    "date": "24/04/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1280px-Logo_AZ_Alkmaar.svg.png",
+    "name1": "Alkmaar",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Bz3raPsKwIgVKH0WFwT1zbuQBWWg2L6VWA&s",
+    "name2": "Roda JC Kerkrade",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "18H00",
+    "date": "24/04/2026",
+    "pro": "Deux équipes vont marquer: Oui"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF6zaim80P7yb4g5CXaB7odM70aGdlVOjLSw&s",
+    "name1": "Cambuur",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8r9S5j6z-1OgspsO4ZrzM-15qDabnlG0ORg&s",
+    "name2": "Vitesse",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "18H00",
+    "date": "24/04/2026",
+    "pro": "1X"
   }
 ]
